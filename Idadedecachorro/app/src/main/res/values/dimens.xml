@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="larguraImgCachorro">100dp</dimen>
+    <dimen name="alturaImgCachorro">100dp</dimen>
+    <dimen name="tamanhoResultado">30sp</dimen>
+</resources>
